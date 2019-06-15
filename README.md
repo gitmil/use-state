@@ -1,9 +1,11 @@
 
 Clone the project
 
-## git clone https://github.com/gitmil/use-state.git
+## `git clone https://github.com/gitmil/use-state.git`
 
-## cd use-state
+change to the project directory
+
+## `cd use-state`
 
 Install Dependencies:
 
